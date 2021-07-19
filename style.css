@@ -89,7 +89,7 @@ header > h2 {
 }
 
 .search > i {
-  background: #f3ededd8;
+  background: #f2f2f2;
   border-radius: 10px 0px 0px 10px;
   text-align: center;
 }
@@ -111,9 +111,9 @@ header > h2 {
 
 .search input {
   width: 80%;
-  border-top: 1px #f3ededd8 solid;
-  border-bottom: 1px #f3ededd8 solid;
-  border-left: 1px #f3ededd8 solid;
+  border-top: 1px #f2f2f2 solid;
+  border-bottom: 1px #f2f2f2 solid;
+  border-left: 1px #f2f2f2 solid;
   border-right: none;
 }
 
@@ -220,7 +220,7 @@ main {
 
 .section_populaire {
   order: 1;
-  background-color: #f3ededd8;
+  background-color: #f2f2f2;
 }
 
 .populaire_header {
@@ -388,7 +388,7 @@ main {
 }
 
 footer {
-  background-color: #f3ededd8;
+  background-color: #f2f2f2;
   padding: 2rem 0;
 }
 
@@ -569,7 +569,7 @@ footer {
   .section_hebergement {
     order: 1;
     width: 60%;
-    background-color: #f3ededd8;
+    background-color: #f2f2f2;
     margin: 0 0 0 1.5rem;
     border-radius: 12px;
   }
